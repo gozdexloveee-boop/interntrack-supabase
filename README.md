@@ -25,16 +25,16 @@ https://interntrack-supabase.vercel.app
 ## Screenshots
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/Login.png)
 
 ### Dashboard Overview
 ![Dashboard Overview](./screenshots/overview.png)
 
 ### Applications Page
-![Applications Page](./screenshots/applications.png)
+![Applications Page](./screenshots/Applications.png)
 
 ### Analytics Page
-![Analytics Page](./screenshots/analytics.png)
+![Analytics Page](./screenshots/Analytics.png)
 
 ## Tech Stack
 
