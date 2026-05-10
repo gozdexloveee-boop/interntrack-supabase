@@ -22,6 +22,20 @@ https://interntrack-supabase.vercel.app
 - Clean and responsive SaaS-style UI
 - Deployed on Vercel
 
+## Screenshots
+
+### Login Page
+![Login Page](./screenshots/login.png)
+
+### Dashboard Overview
+![Dashboard Overview](./screenshots/overview.png)
+
+### Applications Page
+![Applications Page](./screenshots/applications.png)
+
+### Analytics Page
+![Analytics Page](./screenshots/analytics.png)
+
 ## Tech Stack
 
 - React
